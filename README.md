@@ -34,15 +34,15 @@ Supports:
 
 **Please refer to the readme within aptos-wallet-adapter pacakages**
 
-### [Wallet-tester](https://github.com/amnis-finance/amnis-aptos-wallet-adapter/packages/wallet-tester)
+### [Wallet-tester](https://github.com/amnis-finance/amnis-aptos-wallet-adapter/tree/main/packages/wallet-tester)
 
 Simple create react app application demonstrates the essesntial functions of the adapters.
 
-### [Wallet-nextjs](https://github.com/amnis-finance/amnis-aptos-wallet-adapter/packages/wallet-nextjs)
+### [Wallet-nextjs](https://github.com/amnis-finance/amnis-aptos-wallet-adapter/tree/main/packages/wallet-nextjs)
 
 Next JS implementation of the **wallet-tester** with the exact same functionalities demonstrated.
 
-### [Auto-tester](https://github.com/amnis-finance/amnis-aptos-wallet-adapter/packages/auto-tester)
+### [Auto-tester](https://github.com/amnis-finance/amnis-aptos-wallet-adapter/tree/main/packages/auto-tester)
 
 Automatically testing suites based on puppeteer to run E2E integration tests against the **wallet-tester** or **wallet-nextjs**
 
